@@ -3,13 +3,11 @@
 I am studying with the goal of becoming a full stack developer.
 
 [![Medium Badge](https://img.shields.io/badge/-@dev-jadepark-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@dev-jadepark/)](https://medium.com/@dev-jadepark)
-
-[![Medium Badge](https://img.shields.io/badge/-@dev-jadepark-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@dev-jadepark/)](https://medium.com/@dev-jadepark)
 [![Gmail Badge](https://img.shields.io/badge/-dev.jadepark@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:dev.jadepark@gmail.com)](mailto:dev.jadepark@gmail.com)
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
-  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+  ![Java](https://img.shields.io/badge/java-3f4441?style=plastic&logo=java)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
