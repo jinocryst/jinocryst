@@ -7,7 +7,7 @@ I am studying with the goal of becoming a full stack developer.
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
-  ![Java](https://img.shields.io/badge/java-3f4441?style=plastic&logo=java)
+  ![Java](https://img.shields.io/badge/java-3f4441?style=plastic&logo=Java)
   ![Spring](https://img.shields.io/badge/spring-3f4441?style=plastic&logo=Spring)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
@@ -17,7 +17,7 @@ I am studying with the goal of becoming a full stack developer.
 
 - 💻 I work using:
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-007ACC?style=plastic&logo=IntelliJ)
+  ![IntelliJ](https://img.shields.io/badge/-intelliJ-007ACC?style=plastic&logo=intelliJ)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
@@ -27,6 +27,7 @@ I am studying with the goal of becoming a full stack developer.
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 - 🌱 Learning all about:
+  ![Flutter](https://img.shields.io/badge/-Flutter-black?style=plastic&logo=Flutter)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: 
