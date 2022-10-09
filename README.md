@@ -11,13 +11,13 @@ I am studying with the goal of becoming a full stack developer.
   ![Spring](https://img.shields.io/badge/spring-3f4441?style=plastic&logo=Spring)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![Oracle](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=oracle)
+  ![Oracle](https://img.shields.io/badge/-Oracle-336791?style=plastic&logo=oracle)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-3b2e5a?style=plastic&logo=vue.js)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
 - 💻 I work using:
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![IntelliJ](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=IntelliJ)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-007ACC?style=plastic&logo=IntelliJ)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
