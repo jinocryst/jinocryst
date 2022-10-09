@@ -8,6 +8,7 @@ I am studying with the goal of becoming a full stack developer.
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
   ![Java](https://img.shields.io/badge/java-3f4441?style=plastic&logo=java)
+  ![Spring](https://img.shields.io/badge/spring-3f4441?style=plastic&logo=Spring)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
