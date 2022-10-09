@@ -17,7 +17,7 @@ I am studying with the goal of becoming a full stack developer.
 
 - 💻 I work using:
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![IntelliJ](https://img.shields.io/badge/-Intellij-007ACC?style=plastic&logo=intellij)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-007ACC?style=plastic&logo=IntelliJ)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
