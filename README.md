@@ -33,3 +33,4 @@ I am studying with the goal of becoming a full stack developer.
 - ⚡️ Fun fact: 
 
 [![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=dev-jadepark&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jadepark&layout=compact)](https://github.com/dev-jadepark/github-readme-stats)
