@@ -1,4 +1,4 @@
-# Hi there 👋 I'm jade!
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there!%20I'm%20Jade!&fontSize=90)
 
 I am studying with the goal of becoming a full stack developer.
 
@@ -32,5 +32,5 @@ I am studying with the goal of becoming a full stack developer.
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: 
 
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=dev-jadepark&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jadepark&layout=compact)](https://github.com/dev-jadepark/github-readme-stats)
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=dev-jadepark&theme=tokyonight&show_icons=true)](https://github.com/moshfiqrony)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jadepark&layout=compact&theme=tokyonight)](https://github.com/dev-jadepark/github-readme-stats)
