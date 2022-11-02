@@ -31,6 +31,6 @@ I am studying with the goal of becoming a full stack developer.
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: 
-
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=dev-jadepark&theme=tokyonight&show_icons=true)](https://github.com/moshfiqrony)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jadepark&layout=compact&theme=tokyonight)](https://github.com/dev-jadepark/github-readme-stats)
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=dev-jadepark&theme=tokyonight&show_icons=true)](https://github.com/moshfiqrony)
+
