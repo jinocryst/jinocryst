@@ -12,7 +12,6 @@ I am studying with the goal of becoming a full stack developer.
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![Oracle](https://img.shields.io/badge/-Oracle-336791?style=plastic&logo=oracle)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-3b2e5a?style=plastic&logo=vue.js)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
 - 💻 I work using:
@@ -26,6 +25,6 @@ I am studying with the goal of becoming a full stack developer.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=plastic&logo=ReactNative)
 - ⚡️ Fun fact: 
 
