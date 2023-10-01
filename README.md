@@ -26,5 +26,16 @@ I am studying with the goal of becoming a full stack developer.
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=plastic&logo=ReactNative)
-- ⚡️ Fun fact: 
+#  
+<h3>📈 GitHub Stats</h3>
+<p>
+    <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jadepark&hide=html&layout=compact&hide_border=true" alt="Agumon's top languages"/>
+    <img width="455px" src="https://github-readme-stats.vercel.app/api?username=dev-jadepark&theme=default&hide_border=true" alt="Agumon's github stats" />
+</p>
 
+#    
+<h3>🏆 GitHub Trophy</h3>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=dev-jadepark&column=8&no-frame=true"/>
+</p>
+</div>
