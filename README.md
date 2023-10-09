@@ -8,12 +8,11 @@ I am studying with the goal of becoming a full stack developer.
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
-  ![Spring](https://img.shields.io/badge/-spring-3f4441?style=plastic&logo=Spring)
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-3f4441?style=plastic&logo=springboot)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![Oracle](https://img.shields.io/badge/-Oracle-336791?style=plastic&logo=oracle)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-
 - 💻 I work using:
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-007ACC?style=plastic&logo=IntelliJ)
@@ -21,11 +20,12 @@ I am studying with the goal of becoming a full stack developer.
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-- ⚙️ I also use and work:
+- ⚙️ I also using:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
-  ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=plastic&logo=ReactNative)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=plastic&logo=react)
 #  
 <h3>📈 GitHub Stats</h3>
 <p>
