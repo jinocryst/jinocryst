@@ -2,12 +2,12 @@
 
 I am studying with the goal of becoming a full stack developer.
 
-[![Medium Badge](https://img.shields.io/badge/-@dev.jadepark-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@jinocryst/)](https://medium.com/@jinocryst)
-[![Gmail Badge](https://img.shields.io/badge/-dev.jadepark@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:djinocryst@gmail.com)](mailto:jinocryst@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@jinocryst-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@jinocryst/)](https://medium.com/@jinocryst)
+[![Gmail Badge](https://img.shields.io/badge/-jinocryst@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:djinocryst@gmail.com)](mailto:jinocryst@gmail.com)
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
-  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=Java)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-3f4441?style=plastic&logo=springboot)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
