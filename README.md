@@ -2,8 +2,8 @@
 
 I am studying with the goal of becoming a full stack developer.
 
-[![Medium Badge](https://img.shields.io/badge/-@dev.jadepark-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@dev.jadepark/)](https://medium.com/@dev.jadepark)
-[![Gmail Badge](https://img.shields.io/badge/-dev.jadepark@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:dev.jadepark@gmail.com)](mailto:dev.jadepark@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@dev.jadepark-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@jinocryst/)](https://medium.com/@dev.jadepark)
+[![Gmail Badge](https://img.shields.io/badge/-dev.jadepark@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:djinocryst@gmail.com)](mailto:dev.jadepark@gmail.com)
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
@@ -29,13 +29,13 @@ I am studying with the goal of becoming a full stack developer.
 #  
 <h3>📈 GitHub Stats</h3>
 <p>
-    <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jadepark&hide=html&layout=compact&hide_border=true" alt="Agumon's top languages"/>
-    <img width="455px" src="https://github-readme-stats.vercel.app/api?username=dev-jadepark&theme=default&hide_border=true" alt="Agumon's github stats" />
+    <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinocryst&hide=html&layout=compact&hide_border=true" alt="Agumon's top languages"/>
+    <img width="455px" src="https://github-readme-stats.vercel.app/api?username=jinocryst&theme=default&hide_border=true" alt="Agumon's github stats" />
 </p>
 
 #    
 <h3>🏆 GitHub Trophy</h3>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-jadepark&column=8&no-frame=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jinocryst&column=8&no-frame=true"/>
 </p>
 </div>
