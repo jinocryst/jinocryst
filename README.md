@@ -26,7 +26,7 @@ I am studying with the goal of becoming a full stack developer.
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=plastic&logo=react)
-  ![C](https://img.shields.io/badge/-ReactNative-black?style=plastic&logo=c)
+  ![C](https://img.shields.io/badge/-c-black?style=plastic&logo=c)
 #  
 <h3>📈 GitHub Stats</h3>
 <p>
