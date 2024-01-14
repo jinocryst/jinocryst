@@ -2,8 +2,8 @@
 
 I am studying with the goal of becoming a full stack developer.
 
-[![Medium Badge](https://img.shields.io/badge/-@dev.jadepark-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@jinocryst/)](https://medium.com/@dev.jadepark)
-[![Gmail Badge](https://img.shields.io/badge/-dev.jadepark@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:djinocryst@gmail.com)](mailto:dev.jadepark@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@dev.jadepark-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@jinocryst/)](https://medium.com/@jinocryst)
+[![Gmail Badge](https://img.shields.io/badge/-dev.jadepark@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:djinocryst@gmail.com)](mailto:jinocryst@gmail.com)
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
@@ -26,6 +26,7 @@ I am studying with the goal of becoming a full stack developer.
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=plastic&logo=react)
+  ![C](https://img.shields.io/badge/-ReactNative-black?style=plastic&logo=c)
 #  
 <h3>📈 GitHub Stats</h3>
 <p>
